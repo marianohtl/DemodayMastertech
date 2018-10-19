@@ -13,3 +13,5 @@ https://marianohtl.github.io/DraftsDamoday/PortaAbre/PortaAbre.html
 Quadrados Giratórios Keyframes:
 https://marianohtl.github.io/DraftsDamoday/QuadradosGiratóriosComKeyFrame/RotacaoBlackQuad.html
 
+PagePart1:
+marianohtl.github.io/DraftsDamoday/PagePart1/card.html
