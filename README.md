@@ -19,5 +19,6 @@ https://marianohtl.github.io/DraftsDamoday/PagePart1/card.html
 
 
 PagePart2:
-https://marianohtl.github.io/DraftsDamoday/PagePart1/card.html
+
+https://marianohtl.github.io/DraftsDamoday/PagePart2/card.html
 
