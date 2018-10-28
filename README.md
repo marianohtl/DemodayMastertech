@@ -16,3 +16,8 @@ https://marianohtl.github.io/DraftsDamoday/QuadradosGiratóriosComKeyFrame/Rotac
 PagePart1:
 
 https://marianohtl.github.io/DraftsDamoday/PagePart1/card.html
+
+
+PagePart2:
+https://marianohtl.github.io/DraftsDamoday/PagePart1/card.html
+
