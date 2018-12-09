@@ -189,7 +189,7 @@ section{
     font-size: 30vw;
     position: relative;
     color: black; 
-    margin-right: 40px;
+    margin-right: 80px;
 
 }
 .play{
@@ -224,7 +224,7 @@ span{
 
 .dentroSegunda{
     position: relative;
-    height:100%;
+    height:1200px;
     right: 10vh;
     color: black; 
     margin-left: 20px;
