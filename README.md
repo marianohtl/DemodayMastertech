@@ -37,5 +37,7 @@ Form Ajustado, Projeto Completo:
 https://marianohtl.github.io/DraftsDamoday/formAjustado/index.html
 
 
+Projeto Finalizado:
+https://marianohtl.github.io/DraftsDamoday/DEMODAY/index.html
 
 
