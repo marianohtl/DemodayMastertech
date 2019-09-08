@@ -1,4 +1,4 @@
-#  PROJETO FINAL DE SEMANA MASTERTEACH
+#  PROJETO FINAL DE SEMANA MASTERTECH
 
 https://marianohtl.github.io/DraftsDamoday/FDS/index.html
 
