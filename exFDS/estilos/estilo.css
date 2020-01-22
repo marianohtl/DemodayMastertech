@@ -1,0 +1,84 @@
+/**/
+
+body{
+
+    background-color: lightsalmon; 
+    margin: 0;
+    font-family: sans-serif;
+   
+}
+
+nav{
+    height: 100px;
+    border-top: 2px solid white;
+    border: 5px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.rede{
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    margin:5px;
+}
+
+.redondo{
+    border-radius: 50%;
+}
+
+header{
+    background-color: rgba(rgba(240, 128, 128, 0.384), green, blue, alpha);
+    text-align: center;
+}
+
+
+img{
+    width: 800px;
+    height: 300px;
+    border-radius: 30%;
+    
+}
+
+footer{
+    background-color: white;
+    position:fixed;
+    bottom:0;
+    width: 100vw;
+    text-align:center;
+}
+
+
+h1,h2 {
+    color: brown;
+}
+
+h1{
+    font-size: 40pt;
+    text-align: center;
+}
+
+a{
+    font-size: 20pt;
+    text-decoration: none;
+    color: white;
+}
+
+aside{
+    position: absolute;
+    left: 0;
+    width: 300px;
+    padding: 5px;
+    border-right:4 dashed red ;
+    height:100vh;
+    padding: 15px;
+}
+
+section{
+    width: calc(100wh-430px);
+    margin-left: 330 auto;
+    padding: 0 50px;
+
+
+}

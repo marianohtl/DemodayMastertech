@@ -1,0 +1,175 @@
+body{
+	
+    margin: 0px 17vw;
+
+	text-decoration: sans-serif;    
+}
+
+header{
+    display: flex;
+    background: linear-gradient( to bottom, rgba( 255, 255, 255, 0.3),  rgba( 255, 255, 255, 0.3)), url("imagem/book.jpg"); 
+    width: 465px;
+	background-size: conver;  
+	padding: 210px;
+	margin: 120px, auto;
+	flex-direction: column;
+	align-items: center;	
+}
+
+
+
+
+header div.menu {
+	display:flex;
+	top: 28px;
+	left: 350px;
+	position: absolute;
+}
+
+
+nav{
+	font-size: 10px;
+	position:relative;
+	justify-content: flex-end;
+	padding:20px;
+	left: 100px;
+}
+
+
+nav>a{
+
+	
+	color:black;
+	padding: 8px;
+	color: white;
+	position: relative;
+	left: 70px;
+	top: 18px;
+}
+
+
+p {
+	
+	position:relative;
+	flex-direction: column;
+	padding: 10px;
+	color: white;
+}
+	
+
+div>p:first-child{
+	padding:0px;
+	border:0px;
+	margin-bottom: 0px;
+	font-size: 25px;
+}
+
+
+div>p:last-child{
+	padding:0px;
+	border:0px;
+	margin:0px;
+	font-size: 10px;
+	position: relative;
+	left: 24px;
+}
+
+	
+header>h2{
+	font-family: century;
+	display:flex;
+	position:relative;
+	text-decoration: italic;
+	font-size: 38px;
+	border:0px;
+	margin:40px 0px 28px;
+	right: 200px;
+	color: white;
+}
+
+
+div.menuzin{
+	display:flex;
+}
+
+	
+div.opcao {
+	display:flex;
+	flex-direction: column;
+	position: relative;
+	right: 30px;
+	}
+
+
+div.opcao>div {
+	display:flex;
+	position:relative;
+	flex-direction: row;
+}
+
+
+div.opcao>input {
+	width:510px;
+	height:30px;
+	position:relative;
+	left: 0px;
+	margin-bottom: 20px;
+	align-items: flex-end;
+}
+
+
+select{
+	width: 175px;
+	height: 26px;
+	color:gray;
+	display: flex;
+	position: absolute;
+	top:370px;
+	left: 680px;
+}
+
+option{
+	color: gray;
+	
+}
+
+label{
+	color:white;
+	font-size: 9pt;
+	position: relative;
+	border-left: 15px;
+	margin-left: 10px;
+	left: 0px;
+}
+
+
+
+button{
+	
+	width:100px;
+	height: 40px;
+	position: relative;
+	flex-direction: flex-start;
+	background: white;
+	border: 0px;
+	background-color: rgb(88,172,250);
+	color: white;
+    position: relative;
+	left: 30px;
+	top:0px;
+	text-align: center;
+	justify-content: center;
+	font-size: 14px;
+}
+
+
+button>img{
+    color: white;
+    width: 10px;
+    height: 10px;
+	font-size: 5pt;
+	position: relative;
+	right: 10px;
+	
+}
+

@@ -1,0 +1,27 @@
+imagem de fundo
+
+header{
+    position: relative;
+}
+
+
+img {
+    position: absolute;
+    z-index: -1;
+    opacity: 05;
+    
+}
+
+
+
+OUUUUUUUUUUUUUU
+
+
+header{
+    
+    height: 597;
+background: linear-gradient( to bottom, rgba( 255, 255, 255, 0.5),  rgba( 255, 255, 255, 0.5)), url("imagem/header.png"); 
+background-size: conver;
+
+}
+

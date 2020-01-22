@@ -1,0 +1,86 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    background: url("imagem/fundo.jpg");
+    color: white; 
+    
+}
+
+/* 
+Icone loading */
+
+
+.refresh.icon {
+    color: white; 
+    position: absolute;
+    margin-left: 4px;
+    margin-top: 15px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-top: solid 5px currentColor;
+    border-bottom: solid 5px currentColor;
+    border-left: solid 5px transparent;
+    border-right: solid 5px currentColor;
+    animation: 2s animacao linear infinite;
+    
+}
+.refresh.icon:before {
+    content: '';
+    position: absolute;
+    left: -3px;
+    top: 0px;
+    width: 15px;
+    height: 15px;
+    border-top: solid 5px currentColor;
+    border-left: solid 5px currentColor;
+    -webkit-transform: rotate(-98.05deg);
+    transform: rotate(-98.05deg);
+} 
+
+@keyframes animacao{
+    0%{
+        transform: rotate(0deg);
+        
+    }
+    25%{
+        transform: rotate(-90deg);
+    }
+    50%{
+        transform: rotate(-180deg);
+    }
+    
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+
+img{
+    display: flex;
+    margin: 0px;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-top: -70px;
+}
+
+.centro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:200px;
+    flex-direction: column;
+}

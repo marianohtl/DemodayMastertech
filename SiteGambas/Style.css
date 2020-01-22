@@ -1,0 +1,131 @@
+﻿
+
+#description {
+    display: block;
+    border-top: 10000px;
+}
+
+#title {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    width:500px;
+    height:500px;
+    position:absolute;
+    align-text: center;
+    left: 90px;
+    left: 400px;
+}
+
+header {
+    margin: 0px 0px 200px 0px;
+    padding: 80px;
+    position:relative;
+}
+
+
+#logo {
+    width: 200px;
+    height: 200px;
+    border-radius: 1000px;
+    display: block;
+    position: absolute;
+    left: 50px;
+}
+
+#cabecalho {
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 1040px;
+    top: 0px;
+    text-align: left;
+    font-size: 10pt;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border:10px;
+}
+
+
+#inicio {
+    display: flex;
+    padding: 80px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    display: block;
+    position: absolute;
+}
+
+p {
+    text-align: justify;
+}
+
+
+#meio {
+    background-color: white;
+    border-radius: 1000px 1000px 0px 1000px;
+    display: flex;
+    margin: 50px 2px 50px 10px;
+}
+
+
+#meio1 {
+    background-color: white;
+    border-radius: 1000px 1000px 0px 1000px;
+    display: flex;
+    margin: 50px 2px 50px 2px;
+}
+
+#meio2 {
+    background-color: white;
+    border-radius: 1000px 1000px 0px 1000px;
+    display: flex;
+    margin: 50px 2px 50px 2px;
+}
+
+#gamb1 {
+    width: 34vw;
+    height: 300%;
+    margin: 2px 2px 2px 2px;
+    border-radius: 1000px;
+}
+
+#gamb2 {
+    width: 30vw;
+    height: 300%;
+    margin: 2px 2px 2px 2px;
+    border-radius: 1000px;
+}
+
+#gamb3 {
+    width: 30vw;
+    height: 300%;
+    margin: 2px 2px 2px 2px;
+    border-radius: 1000px;
+}
+#map {
+    width: 100vw;
+    height: 500%;
+    margin: 40px auto 100px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1vh 1vh 1vh 1vh;
+}
+
+.rede {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.redes {
+    width: 100px;
+    height: 50px;
+}
